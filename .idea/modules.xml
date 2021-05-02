@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JavaReactiveEx.iml" filepath="$PROJECT_DIR$/JavaReactiveEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reactive.iml" filepath="$PROJECT_DIR$/Reactive.iml" />
     </modules>
   </component>
 </project>

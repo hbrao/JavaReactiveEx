@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="JavaReactiveEx" />
+        <module name="Reactive" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="JavaReactiveEx" target="1.8" />
+      <module name="Reactive" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
