@@ -1,7 +1,3 @@
-## Example files for the title:  
-	  
-# Learning Path: Getting Started with Reactive Programming—Asynchronous Java, Promises, Actors, and Reactive Streams, by Richard Warburton and Raoul-Gabriel Urma
-	  
 [Learning Path: Getting Started with Reactive Programming—Asynchronous Java, Promises, Actors, and Reactive Streams, by Richard Warburton and Raoul-Gabriel Urma](https://www.safaribooksonline.com/learning-paths/learning-path-getting/9781492028611)
 	  
 The following applies to example files from material published by O’Reilly Media, Inc. Content from other publishers may include different rules of usage. Please refer to any additional usage rights explained in the actual example files or refer to the publisher’s website.
